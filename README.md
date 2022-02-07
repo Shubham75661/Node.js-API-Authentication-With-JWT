@@ -3,7 +3,7 @@
 
 
 A project which will create a user and authenticate user using JWT. The users password 
-will gets decrypted using bcryptjs  
+will gets decrypted using bcryptjs.  
 
 
 ## API Reference
